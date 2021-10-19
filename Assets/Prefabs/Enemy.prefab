@@ -122,6 +122,7 @@ MonoBehaviour:
   speed: 2
   vertical: 0
   changeTime: 3
+  smokeEffect: {fileID: 2129257678530207942, guid: c92e60e6f25dbf44e86f81aabe07eb43, type: 3}
   broken: 1
 --- !u!61 &1747683101215300375
 BoxCollider2D:

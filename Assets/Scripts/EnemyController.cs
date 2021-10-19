@@ -77,6 +77,8 @@ public class EnemyController : MonoBehaviour
     {
         broken = false;
         rigidbody2D.simulated = false;
+        //smokeEffect.Stop();
+        Destroy(smokeEffect.gameObject);
     }
 }
 
